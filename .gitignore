@@ -49,3 +49,6 @@ package.json
 /man/
 /share/
 /src/
+/odoo_env/
+
+file.txt
